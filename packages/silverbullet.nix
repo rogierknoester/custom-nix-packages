@@ -7,6 +7,6 @@ pkgs.silverbullet.overrideAttrs (oldAttrs: {
 
   src = fetchurl {
     url = "https://github.com/silverbulletmd/silverbullet/releases/download/edge/silverbullet.js";
-    hash = "sha256-WXjbrFUpLlgIi9Y16i97bHFanx08sBX9ZySNb8QbmYo=";
+    hash = "sha256-MY8ewq0rxjnazEZcAuc7RDc35Vee3W/2pVa4VQW9Kcs=";
   };
 })
